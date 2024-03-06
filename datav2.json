@@ -17495,7 +17495,7 @@
 				],
 				"wargear": [
 					"Heavy armour",
-					"Elven-made hand-and-a-half sword"
+					"Numenorean Sword"
 				]
 			},
 			{
@@ -33381,7 +33381,7 @@
 			{
 				"name": "Lord of Pelargir",
 				"tag": "Active",
-				"definition": "Corinir counts as a banner for Wardens of Pelargir. The range of Corinir's Stand Fast! is 12\" rather than 6\""
+				"definition": "Corinir counts as a banner for Wardens of Pelargir. The range of Corinirs Stand Fast! is 12\" rather than 6\""
 			},
 			{
 				"name": "Pelargir Javelins",
