@@ -6,7 +6,7 @@
 	"credit": [
 		{
 			"type": "text",
-			"text": "Data provided by Now For Wrath. Check out their YouTube channel with battle reports "
+			"text": "Data provided by Now For Wrath. Check out their YouTube channel with battle reports. Modified by Soviet Onion. "
 		},
 		{
 			"type": "url",
@@ -17462,6 +17462,43 @@
 				]
 			},
 			{
+				"name": "Corinir of Pelargir",
+				"factions": [
+					{
+						"name": "The Fiefdoms",
+						"heroicTier": "Hero of Valour"
+					}
+				],
+				"points": 60,
+				"movement": 6,
+				"fight": 4,
+				"shoot": 4,
+				"strength": 4,
+				"defence": 6,
+				"attack": 2,
+				"wounds": 2,
+				"courage": 4,
+				"might": 3,
+				"will": 1,
+				"fate": 1,
+				"heroicActions": [
+					"Heroic Strike"
+				],
+				"keywords": [
+					"Man",
+					"Gondor",
+					"Infantry",
+					"Hero"
+				],
+				"specialRules": [
+					"Lord of Pelargir"
+				],
+				"wargear": [
+					"Heavy armour",
+					"Elven-made hand-and-a-half sword"
+				]
+			},
+			{
 				"name": "Captain of Dol Amroth",
 				"factions": [
 					{
@@ -28643,10 +28680,6 @@
 						"points": 1
 					}
               ],
-				"specialRules": [
-					"Marine",
-					"Pelargir Javelins"
-				],
 				"wargear": [
 					"Armour",
 					"Sword"
@@ -33346,8 +33379,13 @@
 				"definition": "Wardens of Pelargir add +1 to all Swim rolls. "
 			},
 			{
+				"name": "Lord of Pelargir",
+				"tag": "Active",
+				"definition": "Corinir counts as a banner to all Wardens of Pelargir and his "Stand fast!" is 12" instead of 6"."
+			},
+			{
 				"name": "Pelargir Javelins",
-				"tag": "Passive",
+				"tag": "Active",
 				"definition": "Pelargir Javelins can be used as Throwing Spears or as Spears. "
 			}
 		]
