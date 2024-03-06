@@ -17462,43 +17462,6 @@
 				]
 			},
 			{
-				"name": "Corinir of Pelargir",
-				"factions": [
-					{
-						"name": "The Fiefdoms",
-						"heroicTier": "Hero of Valour"
-					}
-				],
-				"points": 60,
-				"movement": 6,
-				"fight": 4,
-				"shoot": 4,
-				"strength": 4,
-				"defence": 6,
-				"attack": 2,
-				"wounds": 2,
-				"courage": 4,
-				"might": 3,
-				"will": 1,
-				"fate": 1,
-				"heroicActions": [
-					"Heroic Strike"
-				],
-				"keywords": [
-					"Man",
-					"Gondor",
-					"Infantry",
-					"Hero"
-				],
-				"specialRules": [
-					"Lord of Pelargir"
-				],
-				"wargear": [
-					"Heavy armour",
-					"Numenorean Sword"
-				]
-			},
-			{
 				"name": "Captain of Dol Amroth",
 				"factions": [
 					{
@@ -17752,6 +17715,44 @@
 				"wargear": [
 					"Armour",
 					"Broadsword"
+				]
+			},
+			{
+				"name": "Corinir of Pelargir",
+				"factions": [
+					{
+						"name": "The Fiefdoms",
+						"heroicTier": "Hero of Valour"
+					}
+				],
+				"points": 60,
+				"movement": 6,
+				"fight": 4,
+				"shoot": 4,
+				"strength": 4,
+				"defence": 6,
+				"attack": 2,
+				"wounds": 2,
+				"courage": 4,
+				"might": 3,
+				"will": 1,
+				"fate": 1,
+				"heroicActions": [
+					"Heroic Strike"
+				],
+				"keywords": [
+					"Man",
+					"Gondor",
+					"Infantry",
+					"Hero"
+				],
+				"options": [],
+				"specialRules": [
+					"Lord of Pelargir"
+				],
+				"wargear": [
+					"Heavy Armour",
+					"Numenorean hand-and-a-half sword"
 				]
 			},
 			{
