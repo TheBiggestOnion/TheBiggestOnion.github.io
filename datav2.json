@@ -28643,6 +28643,10 @@
 						"points": 1
 					}
               ],
+				"specialRules": [
+					"Marine",
+					"Pelargir Javelins"
+				],
 				"wargear": [
 					"Armour",
 					"Sword"
@@ -33342,7 +33346,7 @@
 				"definition": "Wardens of Pelargir add +1 to all Swim rolls. "
 			},
 			{
-				"name": "Pelagir Javelins",
+				"name": "Pelargir Javelins",
 				"tag": "Passive",
 				"definition": "Pelargir Javelins can be used as Throwing Spears or as Spears. "
 			}
